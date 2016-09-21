@@ -9,3 +9,6 @@ BASICALLY there are two streams of samples to select from. Each stream loops thr
 You can drop a folder of samples into the little 'drop folder' bit for your own music. Be warned - samples play in their entirety.
 
 There are controls for panning the streams (with 'stereo' and 'mono' presets), 'stopping' the loop so that the same samples are held, a kick and clap for four-to-the-floor action (these don't work too well and I hate them), and weird controls to set the sample trigger amount followed by a silent amount (that doesn't make sense, but play with the numbers and you'll see).
+
+
+BTW, this is totally open source. You're absolutely free to use it for anything, make anything with it, distribute it, change it, do what you like. I love you.
